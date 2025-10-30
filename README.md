@@ -168,15 +168,22 @@ No configuration needed! The application:
 
 ### 🏠 Main Interface
 Beautiful, modern payment interface with clean design and intuitive layout.
+![WhatsApp Image 2025-10-31 at 00 53 38_05a0f2b3](https://github.com/user-attachments/assets/4c095e44-defd-4784-9f86-228d5b30dd75)
+
 
 ### 💳 Credit Card Payment
 Secure card input with validation, expiry checking, and CVV verification.
+<img width="578" height="734" alt="image" src="https://github.com/user-attachments/assets/1cae1db8-3fa8-46df-8615-a8802a0a73cd" />
+
 
 ### 📱 UPI Payment
 Quick UPI payments with instant validation and zero processing fees.
+![WhatsApp Image 2025-10-31 at 00 54 34_d81333af](https://github.com/user-attachments/assets/f5e0663c-d6cb-4fa9-906f-f6ee662f3cdf)
 
 ### 📊 Transaction History
 Complete transaction log with amount, fees, payment method, and timestamps.
+![WhatsApp Image 2025-10-31 at 00 54 54_62065cdb](https://github.com/user-attachments/assets/59aece15-f8a5-4094-81bf-1761aaf23773)
+
 
 ---
 
@@ -374,7 +381,7 @@ Exception: InvalidCardException thrown and handled
 
 ## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/YOUR_USERNAME/payment-gateway-simulator/issues).
+Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/suryanshsk/payment-gateway-simulator/issues).
 
 ### How to Contribute
 
@@ -413,18 +420,7 @@ MIT License - You are free to:
 ✅ Use privately
 ```
 
----
 
-## 👨‍💻 Author
-
-**Your Name**
-
-- 🌐 Portfolio: [yourportfolio.com](https://yourportfolio.com)
-- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- 🐙 GitHub: [@yourusername](https://github.com/yourusername)
-- 📧 Email: your.email@example.com
-
----
 
 ## 🙏 Acknowledgments
 
@@ -437,10 +433,7 @@ MIT License - You are free to:
 - [Design Patterns: Elements of Reusable Object-Oriented Software](https://en.wikipedia.org/wiki/Design_Patterns)
 - [Clean Code by Robert C. Martin](https://www.oreilly.com/library/view/clean-code-a/9780136083238/)
 
-### Special Thanks
-- **[Your College Name]** - For providing the opportunity to work on this project
-- **[Professor Name]** - For guidance and mentorship
-- **Open Source Community** - For inspiration and best practices
+
 
 ---
 
@@ -448,8 +441,7 @@ MIT License - You are free to:
 
 Need help? Have questions? Found a bug?
 
-- 📧 **Email**: your.email@example.com
-- 💬 **Issues**: [Create an issue](https://github.com/YOUR_USERNAME/payment-gateway-simulator/issues)
+- 💬 **Issues**: [Create an issue](https://github.com/suryanshsk/payment-gateway-simulator/issues)
 - 📖 **Documentation**: Check [PROJECT_DOCUMENTATION.md](PROJECT_DOCUMENTATION.md)
 - 🚀 **Quick Start**: See [QUICK_START.md](QUICK_START.md)
 
@@ -501,3 +493,4 @@ After studying this project, you will understand:
 [🔝 Back to Top](#-payment-gateway-simulator)
 
 </div>
+
